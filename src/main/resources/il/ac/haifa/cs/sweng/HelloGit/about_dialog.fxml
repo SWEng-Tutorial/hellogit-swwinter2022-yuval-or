@@ -4,8 +4,9 @@
 <?import javafx.scene.layout.VBox?>
 <?import javafx.scene.text.Font?>
 
-<VBox xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/19">
+<VBox xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1">
    <Label prefHeight="17.0" prefWidth="140.0" text="Yuval Fisher" />
+   <Label text="Or Meir" />
 	<!-- TODO Add Nodes -->
 	<!--<Label> "Hi there, We are using Git ! ! ! "</Label>-->
 
